@@ -1,6 +1,6 @@
 **Gerenciador de Provas**
 
-Este repositório contém uma versão parcial do sistema de questões de concurso, desenvolvido como parte da disciplina de Tópicos Avançados de Programação (TAP). Essa parte do sistema foi criada para permitir aos usuários armazenar informações sobre diferentes provas de concursos, incluindo detalhes como a empresa responsável pela aplicação da prova, o órgão público que está promovendo a prova, o estado onde a prova ocorreu, o ano da prova, o nível de escolaridade para o qual a prova é destinada e o cargo concorrido. 
+Este repositório contém uma versão parcial do sistema de questões de concurso, desenvolvido como parte da disciplina de Técnicas Avançadas de Programação (TAP). Essa parte do sistema foi criada para permitir aos usuários armazenar informações sobre diferentes provas de concursos, incluindo detalhes como a empresa responsável pela aplicação da prova, o órgão público que está promovendo a prova, o estado onde a prova ocorreu, o ano da prova, o nível de escolaridade para o qual a prova é destinada e o cargo concorrido. 
 
 ### Estrutura do Projeto
 
